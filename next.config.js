@@ -4,6 +4,7 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   reactStrictMode: true,
+
   images: {
     domains: [
       'yt3.ggpht.com',
